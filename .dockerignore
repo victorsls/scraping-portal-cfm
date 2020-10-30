@@ -1,0 +1,4 @@
+Dockerfile
+push_to_ecr.sh
+venv
+.dockerignore
